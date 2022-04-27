@@ -4,8 +4,7 @@
 
 @import "skins/{{ site.theme_skin | default: 'blue' }}";
 
-.job-title,
-  .degree {
+.class h2 {
     color: $text-color;
     font-size: 16px;
     margin-top: 0;
