@@ -32,12 +32,6 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: 
-        level: 
-
-      - idiom: 
-        level: 
-
     interests:
       - item: UX Design
         link:
@@ -51,12 +45,25 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I grew up in rural Minnesota. I then moved to Iowa where I graduated
+      with my bachelor’s degree from the University of Dubuque in Digital
+      Art & Design with a minor in Web Design & Development and another minor
+      in Marketing. I then moved to Miami, Florida in the Summer of 2020 where
+      I am currently in graduate school at the University of Miami in the
+      Interactive Media program with an emphasis on User Experience. I currently
+      work during the school year at our university’s UX Lab as a UX Research
+      Assistant as well as a co-op UX Designer for Motorola Solutions on video
+      solutions within the public safety space.
+classes:
+    - class: Human-Centered Design
+      objective: In this class we developed design solutions to problems by
+      involving the human perspective in all steps of the problem-solving process.
+    - class: Capstone
+      objective: In this class we focused on an individual project that would cap
+      off our master's degree at the University of Miami.
+    - class: Front End Fundamentals
+      objective: In this class we learned, practiced and demonstrated the skills and
+      principles needed to make effective use of front end technologies.
 education:
     - degree: Bachelor's Degree in Digital Art & Design
       university: University of Dubuque
