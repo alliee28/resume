@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1{
+    color:#000000;
+}
+.page-header.about{
+    padding:0;
+}
+li.btn{
+    display:flex;
+    list-style: none;
+}
+/* News CSS */
+.card{
+    display:flex;
+    margin-bottom:1rem;
+    border-bottom: solid 1px #ccc;
+}
+.pic{
+    margin-right:1.5rem;
+}
