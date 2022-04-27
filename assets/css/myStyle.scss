@@ -4,7 +4,7 @@
 
 @import "skins/{{ site.theme_skin | default: 'blue' }}";
 
-.class h2 {
+.class h4 {
     color: $text-color;
     font-size: 16px;
     margin-top: 0;
